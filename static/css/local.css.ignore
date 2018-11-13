@@ -1,0 +1,10 @@
+.navbar {
+	background-color #7fffd4 !important
+}
+.navbar-default {
+	background-color #7fffd4 !important
+}
+.navbar-nav {
+	background-color #7fffd4 !important
+}
+

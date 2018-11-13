@@ -1,0 +1,32 @@
+footer {
+    ackground-color: #ebebeb;
+    background-color: #FFFF00;
+}
+.content-section-a {
+	background-color: #3d86c6;
+}
+.content-section-b {
+}
+.content-section {
+	background-color: #FFFF00;
+}
+.navbar-default {
+  ackground-color: #f8f8f8;
+  background-color: #3d85c6;
+  border-color: #e7e7e7;
+}
+.navbar-default .navbar-brand {
+  color: #FFFF00;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: #5e5e5e;
+  background-color: transparent;
+}
+.navbar-default .navbar-text {
+  color: black;
+}
+.navbar-default .navbar-nav > li > a {
+  color: #FFFF00;
+}
+.
